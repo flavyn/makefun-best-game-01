@@ -1,0 +1,11 @@
+{
+  "game": "Ember Watch",
+  "viewport": { "width": 1280, "height": 720 },
+  "quality": 82,
+  "shots": [
+    { "name": "1-start.jpg", "query": "?shot=start&seed=1", "shows": "title screen: the name, the promise, the controls" },
+    { "name": "2-play.jpg", "query": "?shot=play&seed=1", "shows": "wave 3 in progress: HUD, the beacon, Hollows closing, a lance tracer" },
+    { "name": "3-upgrade.jpg", "query": "?shot=upgrade&seed=1", "shows": "between waves: salvage and three upgrades to spend it on" },
+    { "name": "4-end.jpg", "query": "?shot=end&seed=1", "shows": "defeat screen: score, wave, kills, accuracy, restart" }
+  ]
+}
